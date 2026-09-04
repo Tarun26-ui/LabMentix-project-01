@@ -54,7 +54,6 @@ cd zomato-restaurant-analysis
 pip install pandas numpy matplotlib seaborn textblob scikit-learn
 ```
 
-Then open the notebook:
 
 ```bash
 jupyter notebook Zomato_Project.ipynb
